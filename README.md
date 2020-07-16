@@ -1,4 +1,5 @@
-### DevRel - Java Platform Group - Oracle
+### DevRel
+### Java Platform Group - Oracle
 
 More at https://inside.java/u/delabassee and https://delabassee.com.
 
