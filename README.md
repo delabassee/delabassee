@@ -1,4 +1,6 @@
-### Hi there 👋
+### DevRel - Java Platform Group Oracle
+
+More at https://delabassee.com
 
 <!--
 **delabassee/delabassee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
