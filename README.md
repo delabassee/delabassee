@@ -1,7 +1,6 @@
-### DevRel
-### Java Platform Group - Oracle
+### DevRel - Java Platform Group - Oracle
 
-More at https://inside.java/u/delabassee and https://delabassee.com.
+More info at https://inside.java/u/delabassee and https://delabassee.com.
 
 <!--
 **delabassee/delabassee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
